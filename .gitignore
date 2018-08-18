@@ -1,0 +1,6 @@
+.idea
+*.csv
+*.png
+.ipynb_checkpoints
+*.h5
+*.ipynb
